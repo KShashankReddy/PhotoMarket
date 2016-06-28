@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+ 
+.container>.nav.navbar-nav.navbar-right  li a{
+background: #00CC33;
+color:black;
+}
+.container>.{
+padding:10px;
+}
+
+.navbar-header>.navbar-brand{
+color:#00CC33;
+}
+
+.container>.nav.navbar-nav li a{
+color:#00CC33;
+}
+.jumbotron{
+
+    margin-top: -20px;
+   }
+ 
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
